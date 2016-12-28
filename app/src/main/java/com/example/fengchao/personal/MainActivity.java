@@ -20,7 +20,6 @@ public class MainActivity extends AppCompatActivity {
     private DrawerLayout mDrawerLayout;
     private ListView lvLeftMenu;
     private ActionBarDrawerToggle mDrawerToggle;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
